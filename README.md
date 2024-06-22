@@ -7,13 +7,15 @@ Tive a oportunidade de trabalhar tanto na área comercial quanto técnica, o que
 Além disso, utilizo metodologias Scrum e Agile para garantir a eficiência e a flexibilidade dos projetos que gerencio.
 
 Tenho conhecimentos em diferentes softwares e linguagens de programação, incluindo IBM SPSS Statistics, IBM Modeler, SAS, IBM Watson Analytics/Studio, R, Python, Cognos, Power BI, TM1 e SQL.
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg" />
   <img align="center" alt="Rafa-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
+  <img align="center" alt="Rafa-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" />
+  <img align="center" alt="Rafa-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img align="center" alt="Rafa-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" />
+  <img align="center" alt="Rafa-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img align="center" alt="Rafa-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
   <img align="center" alt="Rafa-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img align="center" alt="Rafa-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   </div>
 
 Minha formação acadêmica inclui um diploma em Estatística pela Universidade Capital e especialização em Métodos Quantitativos pela FGV. Atualmente, sou estudante de Pós-Graduação em Ciência de Dados e Big Data Analytics e MBA em Finanças Estratégicas e Investimentos.
