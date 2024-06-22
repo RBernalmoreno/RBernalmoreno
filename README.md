@@ -10,7 +10,7 @@ Durante minha trajetória foi instrutor do software SPSS ministrando treinamento
 
 ### Como CEO - Estatística Segura - A ES se especializou em projetos de análise preditiva, oferecendo serviços de treinamento, consultoria e soluções.
 
-### Clientes atendidos: Vale/ oBoticário/ Sodexo/ Vigor/ Unifesp/ Apex-Brasil/ Prefeitura de Extrema - MG/ DataFolha/ Odonto Prev/ Camara Arabe/ Unisinos/ Rodobens/ Scalait/ CIP - Camera Interbancária de Pagamentos/ RCI/ Elmmamarket /Magma / RAPPI /Sensormatic /Wipro /Stefanini / Banco do Brasil
+### Clientes atendidos: Vale/ oBoticário/ Sodexo/ Vigor/ Unifesp/ Apex-Brasil/ Prefeitura de Extrema - MG/ DataFolha/ EY-Ernst & Young /Odonto Prev/ Camara Arabe/ Unisinos/ Rodobens/ Scalait/ CIP - Camera Interbancária de Pagamentos/ RCI/ Elmmamarket /Magma / RAPPI /Sensormatic /Wipro /Stefanini / Banco do Brasil
 
 ### Objetivo
 Meu objetivo é continuar a aprender e aplicar técnicas avançadas de ciência de dados, utilizando plataformas colaborativas como o GitHub para versionamento e compartilhamento de projetos. 
