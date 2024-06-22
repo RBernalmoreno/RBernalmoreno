@@ -5,7 +5,12 @@
 Olá, pessoal! sou um estatístico focado em soluções de problemas de ciência de dados, embarcando em uma nova jornada para integrar e expandir minhas habilidades. 
 Com mais de 30 projetos de estatística e data mining no meu portfólio, utilizando ferramentas clássicas como o SPSS (Statistics e Modeler), estou agora focado em aplicar meu conhecimento em linguagens de programação modernas e explorar novas fronteiras tecnológicas.
 Tive a oportunidade de trabalhar tanto na área comercial quanto técnica, o que me permitiu desenvolver habilidades de gerenciamento de projetos personalizados para soluções de problemas de negócios, utilizando técnicas de data mining e estatística. 
-Durante minha trajetória, liderei pessoas, equipes internas e freelancers em vários projetos simultâneos, garantindo a entrega de soluções eficazes e inovadoras.Além disso, utilizo metodologias Scrum e Agile para garantir a eficiência e a flexibilidade dos projetos que gerencio.
+Durante minha trajetória foi instrutor do software SPSS ministrando treinamento para + 750 profissionais, liderei pessoas, equipes internas e freelancers em vários projetos simultâneos, garantindo a entrega de soluções eficazes e inovadoras.Além disso, utilizo metodologias Scrum e Agile para garantir a eficiência e a flexibilidade dos projetos que gerencio.
+
+
+### Como CEO - Estatística Segura - A ES se especializou em projetos de análise preditiva, oferecendo serviços de treinamento, consultoria e soluções.
+
+### Clientes atendidos: Vale/ oBoticário/ Sodexo/ Vigor/ Unifesp/ Apex-Brasil/ Prefeitura de Extrema - MG/ DataFolha/ Odonto Prev/ Camara Arabe/ Unisinos/ Rodobens/ Scalait/ CIP - Camera Interbancária de Pagamentos/ RCI/ Elmmamarket /Magma / RAPPI /Sensormatic /Wipro /Stefanini / Banco do Brasil
 
 ### Objetivo
 Meu objetivo é continuar a aprender e aplicar técnicas avançadas de ciência de dados, utilizando plataformas colaborativas como o GitHub para versionamento e compartilhamento de projetos. 
