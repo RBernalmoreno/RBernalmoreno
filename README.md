@@ -13,31 +13,25 @@ Tenho conhecimentos em diferentes softwares e linguagens de programação, inclu
 Minha formação acadêmica inclui um diploma em Estatística pela Universidade Capital e especialização em Métodos Quantitativos pela FGV. Atualmente, sou estudante de Pós-Graduação em Ciência de Dados e Big Data Analytics e MBA em Finanças Estratégicas e Investimentos.
 Estou constantemente buscando me atualizar e aprimorar minhas habilidades em ciência de dados, estatística e machine learning, e estou sempre pronto para enfrentar novos desafios em diferentes segmentos e áreas de negócios.
 Ficarei feliz em falar mais sobre minhas experiências e como posso ajudar a impulsionar o sucesso de sua empresa.
-
-### Minhas Estatísticas no GitHub
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RBernalmoreno&show_icons=true&theme=radical)
-
 ### Objetivo
-
 Meu objetivo é continuar a aprender e aplicar técnicas avançadas de ciência de dados, utilizando plataformas colaborativas como o GitHub para versionamento e compartilhamento de projetos. Pretendo não apenas contribuir para a comunidade, mas também desenvolver produtos financeiros inovadores, aplicando inteligência artificial para gerar insights de valor.
-
-
 ### Projetos Recentes
-
 Aqui estão alguns dos projetos em que estou trabalhando atualmente:
 
 - **Análise Preditiva de Mercado**: Utilizando aprendizado de máquina para prever tendências de mercado.
 - **Detecção de Fraudes**: Implementação de modelos estatísticos avançados para prevenção de fraudes financeiras.
 - **Otimização de Carteiras de Investimento**: Aplicação de algoritmos de otimização para maximizar retornos financeiros.
-
 ### Conecte-se Comigo
 
    <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/rogerio-bernal-moreno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 - [LinkedIn](https://www.linkedin.com/in/rogerio-bernal-moreno/)
 - [Email](mailto:rbernalmoreno@gmail.com)
+  
+### Minhas Estatísticas no GitHub
 
-- 
-![Investment Growth](https://github.com/RBernalmoreno/Pessoal/blob/main/data_scientist_animation.gif)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RBernalmoreno&show_icons=true&theme=radical)
+
 
 Estou sempre aberto a novas oportunidades e colaborações. Vamos nos conectar e explorar juntos o futuro da ciência de dados e das finanças!
+![Investment Growth](https://github.com/RBernalmoreno/Pessoal/blob/main/data_scientist_animation.gif)
+
