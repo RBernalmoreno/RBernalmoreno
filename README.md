@@ -12,16 +12,18 @@ Durante minha trajetória foi instrutor do software SPSS ministrando treinamento
 
 - A empresa Estatística Segura - ES se especializou em projetos de análise preditiva, oferecendo treinamento, consultoria e soluções.
 
-### Clientes atendidos: 
-|                      |                      |                      |                      |
-|----------------------|----------------------|----------------------|----------------------|
-| Apex - Brasil        | CNA                  | Prefeitura de Extrema| CTI                  |
-| Sensor Brasil        | Prisma Capital       | Magma Soluções UTI   | Sodexo               |
-| SPS                  | RCI                  | Data Folha           | Tailor               |
-| O Boticário          | Vigor                | EY                   | Câmara Árabe         |
-| Odonto Prev          | Unisinos             | Rodobens             | Stefanini Scala      |
-| Unifesp              | Elmma                | Vale                 | Rappi                |
-| Sensormatic          | Wipro                |                      |                      |
+
+### Clientes atendidos:
+
+| Empresa                      |                                  |                              |                                |
+|------------------------------|----------------------------------|-----------------------------|--------------------------------|
+| Vale                         | O Boticário                      | Sodexo                       | Apex - Brasil                  |
+| Vigor Alimentos              | Wipro                            | EY - Ernest & Young          | Prefeitura de Extrema - MG     |
+| Unifesp - Universidade Federal São Paulo | Rodobens                      | Data Folha - Instituto de Pesquisa | Rappi - Entregas                |
+| Odonto Prev - Plano odontológico | Sensor Brasil                   | CNA - Confederação da Agricultura e Pecuária | Prisma Capital Créditos         |
+| SPS - Fundo de Investimento de Ações Investimento no Exterior | Magma Soluções - UTI         | CTI Consultores Associados    | RCI Consulting                  |
+| Tailor                       | Camara Árabe                     | Unisinos                    | Stefanini Scala                |
+| Elmma                        | Sensormatic                      |                             |                                |
 
 ### Objetivo
 Meu objetivo é continuar a aprender e aplicar técnicas avançadas de ciência de dados, utilizando plataformas colaborativas como o GitHub para versionamento e compartilhamento de projetos. 
