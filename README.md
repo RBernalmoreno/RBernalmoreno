@@ -8,9 +8,20 @@ Tive a oportunidade de trabalhar tanto na área comercial quanto técnica, o que
 Durante minha trajetória foi instrutor do software SPSS ministrando treinamento para + 750 profissionais, liderei pessoas, equipes internas e freelancers em vários projetos simultâneos, garantindo a entrega de soluções eficazes e inovadoras.Além disso, utilizo metodologias Scrum e Agile para garantir a eficiência e a flexibilidade dos projetos que gerencio.
 
 
-### Como CEO - Estatística Segura - A ES se especializou em projetos de análise preditiva, oferecendo serviços de treinamento, consultoria e soluções.
+### Como CEO - Estatística Segura 
 
-### Clientes atendidos: Vale/ oBoticário/ Sodexo/ Vigor/ Unifesp/ Apex-Brasil/ Prefeitura de Extrema - MG/ DataFolha/ EY-Ernst & Young /Odonto Prev/ Camara Arabe/ Unisinos/ Rodobens/ Scalait/ CIP - Camera Interbancária de Pagamentos/ RCI/ Elmmamarket /Magma / RAPPI /Sensormatic /Wipro /Stefanini / Banco do Brasil
+- A empresa Estatística Segura - ES se especializou em projetos de análise preditiva, oferecendo treinamento, consultoria e soluções.
+
+### Clientes atendidos: 
+|                      |                      |                      |                      |
+|----------------------|----------------------|----------------------|----------------------|
+| Apex - Brasil        | CNA                  | Prefeitura de Extrema| CTI                  |
+| Sensor Brasil        | Prisma Capital       | Magma Soluções UTI   | Sodexo               |
+| SPS                  | RCI                  | Data Folha           | Tailor               |
+| O Boticário          | Vigor                | EY                   | Câmara Árabe         |
+| Odonto Prev          | Unisinos             | Rodobens             | Stefanini Scala      |
+| Unifesp              | Elmma                | Vale                 | Rappi                |
+| Sensormatic          | Wipro                |                      |                      |
 
 ### Objetivo
 Meu objetivo é continuar a aprender e aplicar técnicas avançadas de ciência de dados, utilizando plataformas colaborativas como o GitHub para versionamento e compartilhamento de projetos. 
