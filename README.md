@@ -25,6 +25,19 @@ Durante minha trajetória foi instrutor do software SPSS ministrando treinamento
 | Tailor                       | Camara Árabe                     | Unisinos                    | Stefanini Scala                |
 | Elmma                        | Sensormatic                      |                             |                                |
 
+| Empresa                                               | Empresa                                                  | Empresa                                               | Empresa                                            |
+|-------------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------|---------------------------------------------------|
+| Vale
+[vale.com](https://www.vale.com)                 | O Boticário [boticario.com.br](https://www.boticario.com.br) | Sodexo [sodexo.com](https://www.sodexo.com)            | Apex - Brasil [apexbrasil.com.br](https://www.apexbrasil.com.br) |
+| Vigor Alimentos [vigor.com.br](https://www.vigor.com.br) | Wipro [wipro.com](https://www.wipro.com)                  | EY - Ernest & Young [ey.com](https://www.ey.com)       | Prefeitura de Extrema - MG [extrema.mg.gov.br](https://www.extrema.mg.gov.br) |
+| Unifesp - Universidade Federal São Paulo [unifesp.br](https://www.unifesp.br) | Rodobens [rodobens.com.br](https://www.rodobens.com.br) | Data Folha - Instituto de Pesquisa [datafolha.com.br](https://datafolha.com.br) | Rappi - Entregas [rappi.com](https://www.rappi.com) |
+| Odonto Prev - Plano odontológico [odontoprev.com.br](https://www.odontoprev.com.br) | Sensor Brasil [sensorbrasil.com.br](https://www.sensorbrasil.com.br) | CNA - Confederação da Agricultura e Pecuária [cna.org.br](https://www.cna.org.br) | Prisma Capital Créditos [prismacapital.com.br](https://www.prismacapital.com.br) |
+| SPS - Fundo de Investimento de Ações Investimento no Exterior [sps.com](https://www.sps.com) | Magma Soluções - UTI [magmasolucoes.com.br](https://www.magmasolucoes.com.br) | CTI Consultores Associados [cticonsultores.com.br](https://www.cticonsultores.com.br) | RCI Consulting [rciconsulting.com](https://www.rciconsulting.com) |
+| Tailor [tailor.com.br](https://www.tailor.com.br)      | Camara Árabe [camararabe.com.br](https://www.camararabe.com.br) | Unisinos [unisinos.br](https://www.unisinos.br)       | Stefanini Scala [stefaniniscala.com.br](https://www.scalait.com) |
+| Elmma [elmma.com.br](https://www.elmma.com.br)         | Sensormatic [sensormatic.com](https://www.sensormatic.com) |                                                       |                                                   |
+
+
+
 ### Objetivo
 Meu objetivo é continuar a aprender e aplicar técnicas avançadas de ciência de dados, utilizando plataformas colaborativas como o GitHub para versionamento e compartilhamento de projetos. 
 Pretendo não apenas contribuir para a comunidade, mas também desenvolver produtos financeiros inovadores, aplicando inteligência artificial para gerar insights de valor.
