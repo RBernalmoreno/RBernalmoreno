@@ -14,6 +14,40 @@ Durante minha trajetória foi instrutor do software SPSS ministrando treinamento
 
 
 ### Clientes atendidos:
+| Empresa                                    | Link                                                                                     |
+|--------------------------------------------|------------------------------------------------------------------------------------------|
+| ![Vale](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/vale.png)           | [vale.com](https://www.vale.com)                                                         |
+| ![O Boticário](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/boticario.png) | [boticario.com.br](https://www.boticario.com.br)                                         |
+| ![Sodexo](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/sodexo.png)       | [sodexo.com](https://www.sodexo.com)                                                     |
+| ![Apex - Brasil](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/apexbrasil.png) | [apexbrasil.com.br](https://www.apexbrasil.com.br)                                       |
+| ![Vigor Alimentos](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/vigor.png) | [vigor.com.br](https://www.vigor.com.br)                                                 |
+| ![Wipro](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/wipro.png)         | [wipro.com](https://www.wipro.com)                                                       |
+| ![EY - Ernest & Young](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/ey.png) | [ey.com](https://www.ey.com)                                                             |
+| ![Prefeitura de Extrema - MG](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/extrema.png) | [extrema.mg.gov.br](https://www.extrema.mg.gov.br)                                       |
+| ![Unifesp](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/unifesp.png)     | [unifesp.br](https://www.unifesp.br)                                                     |
+| ![Rodobens](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/rodobens.png)   | [rodobens.com.br](https://www.rodobens.com.br)                                           |
+| ![Data Folha](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/datafolha.png) | [datafolha.com.br](https://datafolha.com.br)                                             |
+| ![Rappi](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/rappi.png)         | [rappi.com](https://www.rappi.com)                                                       |
+| ![Odonto Prev](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/odontoprev.png) | [odontoprev.com.br](https://www.odontoprev.com.br)                                       |
+| ![Sensor Brasil](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/sensorbrasil.png) | [sensorbrasil.com.br](https://www.sensorbrasil.com.br)                                   |
+| ![CNA](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/cna.png)             | [cna.org.br](https://www.cna.org.br)                                                     |
+| ![Prisma Capital](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/prisma.png) | [prismacapital.com.br](https://www.prismacapital.com.br)                                 |
+| ![SPS](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/sps.png)             | [sps.com](https://www.sps.com)                                                           |
+| ![Magma Soluções](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/magma.png) | [magmasolucoes.com.br](https://www.magmasolucoes.com.br)                                 |
+| ![CTI Consultores](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/cti.png) | [cticonsultores.com.br](https://www.cticonsultores.com.br)                               |
+| ![RCI Consulting](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/rci.png)  | [rciconsulting.com](https://www.rciconsulting.com)                                       |
+| ![Tailor](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/tailor.png)       | [tailor.com.br](https://www.tailor.com.br)                                               |
+| ![Camara Árabe](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/camararabe.png) | [camararabe.com.br](https://www.camararabe.com.br)                                       |
+| ![Unisinos](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/unisinos.png)   | [unisinos.br](https://www.unisinos.br)                                                   |
+| ![Stefanini Scala](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/stefanini.png) | [stefaniniscala.com.br](https://www.scalait.com)                                         |
+| ![Elmma](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/elmma.png)         | [elmma.com.br](https://www.elmma.com.br)                                                 |
+| ![Sensormatic](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/sensormatic.png) | [sensormatic.com](https://www.sensormatic.com)                                           |
+
+
+
+
+
+
 
 | Empresa                      |                                  |                              |                                |
 |------------------------------|----------------------------------|-----------------------------|--------------------------------|
@@ -40,7 +74,7 @@ Durante minha trajetória foi instrutor do software SPSS ministrando treinamento
 
 | Empresa                                                                 | Empresa                                                              | Empresa                                                              | Empresa                                                                 |
 |-------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------------------------------|
-| ![Vale](https://via.placeholder.com/50) [Vale](https://www.vale.com)                 | ![O Boticário](https://via.placeholder.com/50) [O Boticário](https://www.boticario.com.br) | ![Sodexo](https://via.placeholder.com/50) [Sodexo](https://www.sodexo.com)           | ![Apex - Brasil](https://via.placeholder.com/50) [Apex - Brasil](https://www.apexbrasil.com.br) |
+| ![Vale](https://github.com/RBernalmoreno/Rbernalmoreno/Vale.png/50) [Vale](https://www.vale.com)                 | ![O Boticário](https://via.placeholder.com/50) [O Boticário](https://www.boticario.com.br) | ![Sodexo](https://via.placeholder.com/50) [Sodexo](https://www.sodexo.com)           | ![Apex - Brasil](https://via.placeholder.com/50) [Apex - Brasil](https://www.apexbrasil.com.br) |
 | ![Vigor Alimentos](https://via.placeholder.com/50) [Vigor Alimentos](https://www.vigor.com.br) | ![Wipro](https://via.placeholder.com/50) [Wipro](https://www.wipro.com)                  | ![EY - Ernest & Young](https://via.placeholder.com/50) [EY - Ernest & Young](https://www.ey.com)       | ![Prefeitura de Extrema - MG](https://via.placeholder.com/50) [Prefeitura de Extrema - MG](https://www.extrema.mg.gov.br) |
 | ![Unifesp - Universidade Federal São Paulo](https://via.placeholder.com/50) [Unifesp - Universidade Federal São Paulo](https://www.unifesp.br) | ![Rodobens](https://via.placeholder.com/50) [Rodobens](https://www.rodobens.com.br) | ![Data Folha - Instituto de Pesquisa](https://via.placeholder.com/50) [Data Folha - Instituto de Pesquisa](https://datafolha.com.br) | ![Rappi - Entregas](https://via.placeholder.com/50) [Rappi - Entregas](https://www.rappi.com) |
 | ![Odonto Prev - Plano odontológico](https://via.placeholder.com/50) [Odonto Prev - Plano odontológico](https://www.odontoprev.com.br) | ![Sensor Brasil](https://via.placeholder.com/50) [Sensor Brasil](https://www.sensorbrasil.com.br) | ![CNA - Confederação da Agricultura e Pecuária](https://via.placeholder.com/50) [CNA - Confederação da Agricultura e Pecuária](https://www.cna.org.br) | ![Prisma Capital Créditos](https://via.placeholder.com/50) [Prisma Capital Créditos](https://www.prismacapital.com.br) |
