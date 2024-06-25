@@ -33,7 +33,7 @@ Durante minha trajetória foi instrutor do software SPSS ministrando treinamento
 | ![Magma Soluções](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/Magma.png) | [magmasolucoes.com.br](https://www.magmasolucoes.com.br)                                                |
 | ![CTI Consultores](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/CTI.png) | [cticonsultores.com.br](https://www.cticonsultores.com.br)                                               |
 | ![RCI Consulting](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/rci.png)  | [rciconsulting.com](https://www.rciconsulting.com)                                                       |
-| ![Tailor](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/Tailor.png)       | [tailor.com.br](https://www.tailor.com.br)                                                               |
+
 | ![Unisinos](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/Unisinos.png)   | [unisinos.br](https://www.unisinos.br)                                                                   |
 | ![Stefanini Scala](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/Stefanini.png) | [stefaniniscala.com.br](https://www.scalait.com)                                                   |
 | ![Sensormatic](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/sensormatic.png) | [sensormatic.com](https://www.sensormatic.com)  
