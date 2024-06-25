@@ -16,73 +16,27 @@ Durante minha trajetória foi instrutor do software SPSS ministrando treinamento
 ### Clientes atendidos:
 | Empresa                                    | Link                                                                                     |
 |--------------------------------------------|------------------------------------------------------------------------------------------|
-| ![Vale](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/vale.png)           | [vale.com](https://www.vale.com)                                                         |
-| ![O Boticário](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/boticario.png) | [boticario.com.br](https://www.boticario.com.br)                                         |
-| ![Sodexo](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/sodexo.png)       | [sodexo.com](https://www.sodexo.com)                                                     |
-| ![Apex - Brasil](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/apexbrasil.png) | [apexbrasil.com.br](https://www.apexbrasil.com.br)                                       |
-| ![Vigor Alimentos](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/vigor.png) | [vigor.com.br](https://www.vigor.com.br)                                                 |
-| ![Wipro](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/wipro.png)         | [wipro.com](https://www.wipro.com)                                                       |
-| ![EY - Ernest & Young](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/ey.png) | [ey.com](https://www.ey.com)                                                             |
-| ![Prefeitura de Extrema - MG](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/extrema.png) | [extrema.mg.gov.br](https://www.extrema.mg.gov.br)                                       |
-| ![Unifesp](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/unifesp.png)     | [unifesp.br](https://www.unifesp.br)                                                     |
-| ![Rodobens](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/rodobens.png)   | [rodobens.com.br](https://www.rodobens.com.br)                                           |
-| ![Data Folha](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/datafolha.png) | [datafolha.com.br](https://datafolha.com.br)                                             |
-| ![Rappi](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/rappi.png)         | [rappi.com](https://www.rappi.com)                                                       |
-| ![Odonto Prev](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/odontoprev.png) | [odontoprev.com.br](https://www.odontoprev.com.br)                                       |
-| ![Sensor Brasil](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/sensorbrasil.png) | [sensorbrasil.com.br](https://www.sensorbrasil.com.br)                                   |
-| ![CNA](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/cna.png)             | [cna.org.br](https://www.cna.org.br)                                                     |
-| ![Prisma Capital](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/prisma.png) | [prismacapital.com.br](https://www.prismacapital.com.br)                                 |
-| ![SPS](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/sps.png)             | [sps.com](https://www.sps.com)                                                           |
-| ![Magma Soluções](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/magma.png) | [magmasolucoes.com.br](https://www.magmasolucoes.com.br)                                 |
-| ![CTI Consultores](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/cti.png) | [cticonsultores.com.br](https://www.cticonsultores.com.br)                               |
-| ![RCI Consulting](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/rci.png)  | [rciconsulting.com](https://www.rciconsulting.com)                                       |
-| ![Tailor](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/tailor.png)       | [tailor.com.br](https://www.tailor.com.br)                                               |
-| ![Camara Árabe](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/camararabe.png) | [camararabe.com.br](https://www.camararabe.com.br)                                       |
-| ![Unisinos](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/unisinos.png)   | [unisinos.br](https://www.unisinos.br)                                                   |
-| ![Stefanini Scala](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/stefanini.png) | [stefaniniscala.com.br](https://www.scalait.com)                                         |
-| ![Elmma](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/elmma.png)         | [elmma.com.br](https://www.elmma.com.br)                                                 |
-| ![Sensormatic](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/logos/sensormatic.png) | [sensormatic.com](https://www.sensormatic.com)                                           |
-
-
-
-
-
-
-
-| Empresa                      |                                  |                              |                                |
-|------------------------------|----------------------------------|-----------------------------|--------------------------------|
-| Vale                         | O Boticário                      | Sodexo                       | Apex - Brasil                  |
-| Vigor Alimentos              | Wipro                            | EY - Ernest & Young          | Prefeitura de Extrema - MG     |
-| Unifesp - Universidade Federal São Paulo | Rodobens                      | Data Folha - Instituto de Pesquisa | Rappi - Entregas                |
-| Odonto Prev - Plano odontológico | Sensor Brasil                   | CNA - Confederação da Agricultura e Pecuária | Prisma Capital Créditos         |
-| SPS - Fundo de Investimento de Ações Investimento no Exterior | Magma Soluções - UTI         | CTI Consultores Associados    | RCI Consulting                  |
-| Tailor                       | Camara Árabe                     | Unisinos                    | Stefanini Scala                |
-| Elmma                        | Sensormatic                      |                             |                                |
-
-| Empresa                                               | Empresa                                                  | Empresa                                               | Empresa                                            |
-|-------------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------|---------------------------------------------------|
-| Vale
-[vale.com](https://www.vale.com)                 | O Boticário [boticario.com.br](https://www.boticario.com.br) | Sodexo [sodexo.com](https://www.sodexo.com)            | Apex - Brasil [apexbrasil.com.br](https://www.apexbrasil.com.br) |
-| Vigor Alimentos [vigor.com.br](https://www.vigor.com.br) | Wipro [wipro.com](https://www.wipro.com)                  | EY - Ernest & Young [ey.com](https://www.ey.com)       | Prefeitura de Extrema - MG [extrema.mg.gov.br](https://www.extrema.mg.gov.br) |
-| Unifesp - Universidade Federal São Paulo [unifesp.br](https://www.unifesp.br) | Rodobens [rodobens.com.br](https://www.rodobens.com.br) | Data Folha - Instituto de Pesquisa [datafolha.com.br](https://datafolha.com.br) | Rappi - Entregas [rappi.com](https://www.rappi.com) |
-| Odonto Prev - Plano odontológico [odontoprev.com.br](https://www.odontoprev.com.br) | Sensor Brasil [sensorbrasil.com.br](https://www.sensorbrasil.com.br) | CNA - Confederação da Agricultura e Pecuária [cna.org.br](https://www.cna.org.br) | Prisma Capital Créditos [prismacapital.com.br](https://www.prismacapital.com.br) |
-| SPS - Fundo de Investimento de Ações Investimento no Exterior [sps.com](https://www.sps.com) | Magma Soluções - UTI [magmasolucoes.com.br](https://www.magmasolucoes.com.br) | CTI Consultores Associados [cticonsultores.com.br](https://www.cticonsultores.com.br) | RCI Consulting [rciconsulting.com](https://www.rciconsulting.com) |
-| Tailor [tailor.com.br](https://www.tailor.com.br)      | Camara Árabe [camararabe.com.br](https://www.camararabe.com.br) | Unisinos [unisinos.br](https://www.unisinos.br)       | Stefanini Scala [stefaniniscala.com.br](https://www.scalait.com) |
-| Elmma [elmma.com.br](https://www.elmma.com.br)         | Sensormatic [sensormatic.com](https://www.sensormatic.com) |                                                       |                                                   |
-
-# Empresas
-
-| Empresa                                                                 | Empresa                                                              | Empresa                                                              | Empresa                                                                 |
-|-------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------------------------------|
-| ![Vale](https://github.com/RBernalmoreno/Rbernalmoreno/Vale.png/50) [Vale](https://www.vale.com)                 | ![O Boticário](https://via.placeholder.com/50) [O Boticário](https://www.boticario.com.br) | ![Sodexo](https://via.placeholder.com/50) [Sodexo](https://www.sodexo.com)           | ![Apex - Brasil](https://via.placeholder.com/50) [Apex - Brasil](https://www.apexbrasil.com.br) |
-| ![Vigor Alimentos](https://via.placeholder.com/50) [Vigor Alimentos](https://www.vigor.com.br) | ![Wipro](https://via.placeholder.com/50) [Wipro](https://www.wipro.com)                  | ![EY - Ernest & Young](https://via.placeholder.com/50) [EY - Ernest & Young](https://www.ey.com)       | ![Prefeitura de Extrema - MG](https://via.placeholder.com/50) [Prefeitura de Extrema - MG](https://www.extrema.mg.gov.br) |
-| ![Unifesp - Universidade Federal São Paulo](https://via.placeholder.com/50) [Unifesp - Universidade Federal São Paulo](https://www.unifesp.br) | ![Rodobens](https://via.placeholder.com/50) [Rodobens](https://www.rodobens.com.br) | ![Data Folha - Instituto de Pesquisa](https://via.placeholder.com/50) [Data Folha - Instituto de Pesquisa](https://datafolha.com.br) | ![Rappi - Entregas](https://via.placeholder.com/50) [Rappi - Entregas](https://www.rappi.com) |
-| ![Odonto Prev - Plano odontológico](https://via.placeholder.com/50) [Odonto Prev - Plano odontológico](https://www.odontoprev.com.br) | ![Sensor Brasil](https://via.placeholder.com/50) [Sensor Brasil](https://www.sensorbrasil.com.br) | ![CNA - Confederação da Agricultura e Pecuária](https://via.placeholder.com/50) [CNA - Confederação da Agricultura e Pecuária](https://www.cna.org.br) | ![Prisma Capital Créditos](https://via.placeholder.com/50) [Prisma Capital Créditos](https://www.prismacapital.com.br) |
-| ![SPS](https://via.placeholder.com/50) [SPS](https://www.sps.com)      | ![Magma Soluções - UTI](https://via.placeholder.com/50) [Magma Soluções - UTI](https://www.magmasolucoes.com.br) | ![CTI Consultores Associados](https://via.placeholder.com/50) [CTI Consultores Associados](https://www.cticonsultores.com.br) | ![RCI Consulting](https://via.placeholder.com/50) [RCI Consulting](https://www.rciconsulting.com) |
-| ![Tailor](https://via.placeholder.com/50) [Tailor](https://www.tailor.com.br)      | ![Camara Árabe](https://via.placeholder.com/50) [Camara Árabe](https://www.camararabe.com.br) | ![Unisinos](https://via.placeholder.com/50) [Unisinos](https://www.unisinos.br)      | ![Stefanini Scala](https://via.placeholder.com/50) [Stefanini Scala](https://www.stefaniniscala.com.br) |
-| ![Elmma](https://via.placeholder.com/50) [Elmma](https://www.elmma.com.br)        | ![Sensormatic](https://via.placeholder.com/50) [Sensormatic](https://www.sensormatic.com) |                                                                      |                                                                         |
-
-
+| ![Vale](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/Vale.png)           | [vale.com](https://www.vale.com)                                                                         |
+| ![O Boticário](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/Boticario.png) | [boticario.com.br](https://www.boticario.com.br)                                                       |
+| ![Sodexo](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/Sodexo.png)       | [sodexo.com](https://www.sodexo.com)                                                                     |
+| ![Apex - Brasil](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/apex_brasil.png) | [apexbrasil.com.br](https://www.apexbrasil.com.br)                                                 |
+| ![Vigor Alimentos](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/Vigor.png) | [vigor.com.br](https://www.vigor.com.br)                                                               |
+| ![Wipro](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/Wipro.png)         | [wipro.com](https://www.wipro.com)                                                                       |
+| ![EY - Ernest & Young](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/EY.png) | [ey.com](https://www.ey.com)                                                                          |
+| ![Prefeitura de Extrema - MG](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/Extrema.png) | [extrema.mg.gov.br](https://www.extrema.mg.gov.br)                                        |
+| ![Unifesp](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/unifesp.png)     | [unifesp.br](https://www.unifesp.br)                                                                     |
+| ![Data Folha](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/DataFolha.png) | [datafolha.com.br](https://datafolha.com.br)                                                            |
+| ![Rappi](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/Rappi.png)         | [rappi.com](https://www.rappi.com)                                                                       |
+| ![CNA](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/Cna.png)             | [cna.org.br](https://www.cna.org.br)                                                                     |
+| ![Prisma Capital](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/Prisma.png) | [prismacapital.com.br](https://www.prismacapital.com.br)                                               |
+| ![SPS](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/SPS.png)             | [sps.com](https://www.sps.com)                                                                           |
+| ![Magma Soluções](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/Magma.png) | [magmasolucoes.com.br](https://www.magmasolucoes.com.br)                                                |
+| ![CTI Consultores](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/CTI.png) | [cticonsultores.com.br](https://www.cticonsultores.com.br)                                               |
+| ![RCI Consulting](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/rci.png)  | [rciconsulting.com](https://www.rciconsulting.com)                                                       |
+| ![Tailor](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/Tailor.png)       | [tailor.com.br](https://www.tailor.com.br)                                                               |
+| ![Unisinos](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/Unisinos.png)   | [unisinos.br](https://www.unisinos.br)                                                                   |
+| ![Stefanini Scala](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/Stefanini.png) | [stefaniniscala.com.br](https://www.scalait.com)                                                   |
+| ![Sensormatic](https://github.com/RBernalmoreno/Rbernalmoreno/raw/main/sensormatic.png) | [sensormatic.com](https://www.sensormatic.com)  
 ### Objetivo
 Meu objetivo é continuar a aprender e aplicar técnicas avançadas de ciência de dados, utilizando plataformas colaborativas como o GitHub para versionamento e compartilhamento de projetos. 
 Pretendo não apenas contribuir para a comunidade, mas também desenvolver produtos financeiros inovadores, aplicando inteligência artificial para gerar insights de valor.
